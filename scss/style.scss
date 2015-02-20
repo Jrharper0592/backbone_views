@@ -49,3 +49,18 @@ img {max-width:100%;}
 body {
     transition: opacity .25s ease;
 }
+
+
+.sideview {
+background-color: blue;
+width: 30%;
+position: absolute;
+
+}
+
+.mainview {
+background-color: red;
+width: 65%;
+position: relative;
+float: right;
+}
